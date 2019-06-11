@@ -1,0 +1,22 @@
+query chunks($parentRowId: UUID!) {
+  allChunks(
+    orderBy: CHUNK_SPOT_ASC
+    condition: { rowId: $parentRowId }
+  ) {
+    nodes {
+      rowId
+      chunkId
+      chunkTitle
+      content
+      caption
+      captionPosition
+      textOfFigure
+      figureType
+      language
+      showLineNumbers
+      beginLineNumberingAt
+      linesToHighlight
+      chunkSpot
+    }
+  }
+}

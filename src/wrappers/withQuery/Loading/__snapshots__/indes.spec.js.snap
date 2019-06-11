@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components:Loading renders the Loading correctly 1`] = `
+<styled.div>
+  <styled.div>
+    <styled.div />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+    <Styled(styled.div) />
+  </styled.div>
+</styled.div>
+`;

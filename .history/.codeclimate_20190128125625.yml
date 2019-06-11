@@ -1,0 +1,25 @@
+---
+checks:
+  file-lines:
+    enabled: false
+engines:
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - javascript
+  fixme:
+    enabled: true
+ratings:
+  paths:
+  - "**.js"
+exclude_paths:
+- .eslint.js
+- .history/
+- .idea/
+- .vscode/
+- dist/
+- docs/
+- jest.config.js
+- node_modules/
+- webpack.config.js

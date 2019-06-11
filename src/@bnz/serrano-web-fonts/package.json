@@ -1,0 +1,27 @@
+{
+  "name": "@bnz/serrano-web-fonts",
+  "version": "0.0.8",
+  "description": "BNZ Serrano Web Fonts",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@drlgst01.nz.thenational.com:7999/ws/serrano-web-fonts.git"
+  },
+  "publishConfig": {
+    "registry": "http://drlnpm02.nz.thenational.com:8081/repository/npm-private/"
+  },
+  "files": [
+    "serrano.css",
+    "fonts"
+  ],
+  "main": "serrano.css",
+  "scripts": {
+    "prepare": "postcss -o serrano.css src/serrano.css"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss": "^6.0.12",
+    "postcss-cli": "^4.1.1",
+    "postcss-urlrev": "^2.0.0"
+  }
+}

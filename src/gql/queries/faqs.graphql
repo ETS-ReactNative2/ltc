@@ -1,0 +1,12 @@
+query faqs {
+  allFaqs(orderBy: [CATEGORY_SPOT_ASC, FAQ_SPOT_ASC]) {
+    nodes {
+      rowId
+      categoryName
+      categoryDescription
+      question
+      answer
+      tags
+    }
+  }
+}

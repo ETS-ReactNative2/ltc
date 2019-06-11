@@ -1,0 +1,29 @@
+query page($fullPath: String!) {
+  allManagedPages(condition: {
+    fullPath: $fullPath
+  }) {
+    nodes {
+      type
+      fullPath
+      rowId
+      slug
+      linkLabel
+      linkDescription
+      title
+      objective
+      testForCompletion
+      header
+      main
+      footer
+      content
+      definitionOfDone
+      tags
+      linkImageUrl
+      linkImageAlt
+      linkImageLongdesc
+      parentPath
+      childPaths
+      siblingPaths
+    }
+  }
+}

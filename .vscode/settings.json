@@ -1,0 +1,31 @@
+{
+  "files.exclude": {
+    "__error": "Not found",
+    ".history": true,
+    ".vscode": true,
+    ".babelrc": true,
+    ".codeclimate.yml": true,
+    ".editorconfig": true,
+    ".gitignore": true,
+    ".npmignore": true,
+    ".travis.yml": true,
+    "commitlint.config.js": true,
+    "jest.config.js": true,
+    ".eslintignore": true,
+    ".eslintrc": true,
+    "src/serviceWorker.js": true,
+    "dist": true
+  },
+  "cSpell.words": [
+    "drawer",
+    "fallback",
+    "fontawesome",
+    "fortawesome",
+    "inbox",
+    "inmemory",
+    "swipeable",
+    "switchyard",
+    "toolbar"
+  ],
+  "editor.formatOnSave": true
+}

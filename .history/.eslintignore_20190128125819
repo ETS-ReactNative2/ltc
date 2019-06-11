@@ -1,0 +1,6 @@
+.history/
+coverage/
+build/
+docs/
+jest.config.js
+webpack.config.js

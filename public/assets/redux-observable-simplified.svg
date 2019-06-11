@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="145 274.5 672.5 640.5" width="672.5" height="640.5">
+  <defs>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-31 20:55:05 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="145" y="274.5" width="672.5" height="640.5"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_9">
+        <rect x="200" y="325" width="125" height="100" fill="#0096ff"/>
+        <rect x="200" y="325" width="125" height="100" stroke="#005493" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(205 358)" fill="white">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="39.213867" y="14">React</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="22.865723" y="31">component</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <path d="M 325 375 L 504 375 L 503.2134 442.69787" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="475" y="450" width="124.5" height="100" fill="#9437ff"/>
+        <rect x="475" y="450" width="124.5" height="100" stroke="#521b93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(480 483)" fill="white">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="37.015625" y="14">Redux</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="33.515625" y="31">reducer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="475" y="725" width="125" height="100" fill="#009051"/>
+        <rect x="475" y="725" width="125" height="100" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(480 749.5)" fill="white">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="34.93457" y="14">Redux-</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="21.703613" y="31">Observable</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="44.65869" y="48">epic</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(331 352.276)" fill="#0096ff">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#0096ff" x=".104" y="15">dispatch(action)</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <line x1="230" y1="600" x2="230.1859" y2="434.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(337.5 605.776)" fill="#9437ff">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#9437ff" x=".336" y="15">new state</tspan>
+        </text>
+      </g>
+      <g id="Line_17">
+        <line x1="570.9446" y1="550" x2="571.4686" y2="715.10005" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <path d="M 600 775 L 632.9174 775 L 632.9174 425 L 572.5 425 L 572.2348 442.25337" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_19">
+        <text transform="translate(513 695.776)" fill="#9437ff">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#9437ff" x=".248" y="15">action$</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(642.5 430.552)" fill="#009051">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#009051" x="0" y="15">new</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#009051" x="0" y="33.448">action</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(235 438.276)" fill="#0096ff">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#0096ff" x=".416" y="15">mapStateToProps(state)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <rect x="200" y="600" width="125" height="100" fill="#929292"/>
+        <rect x="200" y="600" width="125" height="100" stroke="#797979" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(205 633)" fill="white">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="41.155273" y="14">State</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="white" x="20.54834" y="31">(immutable)</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <path d="M 505.07627 550 L 505 627.5 L 334.89997 627.8836" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_26">
+        <path d="M 325 676.3429 L 507.5 675 L 507.5 715.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_27">
+        <text transform="translate(200 762.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".308" y="15">Redux-observable middleware</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="71.276" y="33.448">(simplified)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(455 695.776)" fill="#929292">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#929292" x=".42" y="15">state$</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <path d="M 297.5 600 L 297.5 477.5 L 465.1001 476.6957" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(376.5 480.776)" fill="#929292">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#929292" x=".904" y="15">current state</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(382.5 840.776)" fill="#008f00">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#008f00" x=".056" y="15">epic(</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#9437ff" y="15">action$</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#008f00" y="15">, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#929292" y="15">state$</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#008f00" y="15">) -&gt; Observable&lt;action&gt;</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(517.5 383.276)" fill="#9437ff">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#9437ff" x=".06" y="15">reducer(</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#929292" y="15">state</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#9437ff" y="15">, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#0096ff" y="15">action</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#9437ff" y="15">) -&gt; new state</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(453.5 423.276)" fill="#0096ff">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#0096ff" x=".144" y="15">action</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

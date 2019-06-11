@@ -1,0 +1,19 @@
+query paths {
+  allManagedPages {
+    nodes {
+      type
+      fullPath
+      rowId
+      linkLabel
+      linkDescription
+      linkImageUrl
+      linkImageAlt
+      linkImageLongdesc
+      parentPath
+      childPaths
+      siblingPaths
+      spot
+      depth
+    }
+  }
+}
